@@ -1,5 +1,7 @@
 # Game Classifier using EfficientNetB3
 
+📅 **Date:** February 14, 2025
+
 This project employs the EfficientNetB3 model to classify four game categories: **PUBG PC**, **PUBG Lite**, **PUBG New State**, and **PUBG Mobile**.
 
 ## 📂 Folder Overview
