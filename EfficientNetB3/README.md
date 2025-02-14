@@ -9,7 +9,7 @@ This project utilizes an EfficientNetB3 model to classify images from four game 
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/Sanjay007008/Samsung-PRISM_Works/tree/main/EfficientNetB3
+git clone https://github.com/Sanjay007008/Samsung-PRISM_Works/tree/main/EfficientNetB3](https://github.com/Sanjay007008/Samsung-PRISM_Works.git
 cd EfficientNetB3
 ```
 Run the Jupyter Notebook for training or testing.
