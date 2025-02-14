@@ -10,8 +10,8 @@ This project uses an EfficientNetB3 model to classify images of different games.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/game-classifier.git](https://github.com/Sanjay007008/Samsung-PRISM_Works/tree/main/EfficientNetB3)
-   cd game-classifier
+   git clone https://github.com/Sanjay007008/Samsung-PRISM_Works/tree/main/EfficientNetB3
+   cd EfficientNetB3
    ```
 2. Install dependencies:
    ```bash
