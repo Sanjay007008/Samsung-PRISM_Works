@@ -1,30 +1,31 @@
 # Game Classifier using EfficientNetB3
 
-This project uses an EfficientNetB3 model to classify images of different games.
+This project utilizes an EfficientNetB3 model to classify images from four game categories: PUBG PC, PUBG Lite, PUBG New State, and PUBG Mobile.
 
 ## 📂 Folder Structure
-- `game_classifier_model.h5`: Trained EfficientNetB3 model
-- `dataset/`: Labeled game images
-- `efficienyNetB.ipynb`: Model training notebook
+- `game_classifier_model.h5`: Trained model
+- `dataset/`: Game image dataset
+- `efficienyNetB.ipynb`: Training notebook
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sanjay007008/Samsung-PRISM_Works/tree/main/EfficientNetB3
-   cd EfficientNetB3
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook to train or test the model.
+```bash
+git clone https://github.com/Sanjay007008/Samsung-PRISM_Works/tree/main/EfficientNetB3
+cd EfficientNetB3
+```
+Run the Jupyter Notebook for training or testing.
 
 ## 📊 Model Accuracy
-The model was trained on four game classes and achieved high accuracy during testing.
+Trained on four game classes, achieving high accuracy.
 
 ## 📽️ Demonstration Video
-[Project Demo on Google Drive](https://drive.google.com/file/d/1KXWIjDQxHLiNW2NbcT77WODmelP8W5gK/view?usp=drive_link)
+[Project Demo](https://drive.google.com/file/d/1KXWIjDQxHLiNW2NbcT77WODmelP8W5gK/view?usp=drive_link)
 
-## 📝 Author
+## 📝 Authors
+- **Gokul K** (22i313) - 22i313@psgtech.ac.in
+- **Sai Krishnan J** (22i321) - 22i321@psgtech.ac.in
+- **Raghav Somasundaram P L** (22i349) - 22i349@psgtech.ac.in
+- **Sanjay A C** (22i355) - 22i355@psgtech.ac.in
+- **Sanjay S** (22i356) - 22i356@psgtech.ac.in
 
+**Save as:** `README.md`
 
